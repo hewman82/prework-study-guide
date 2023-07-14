@@ -1,4 +1,4 @@
-# Pre-Work Study Guide For The UO Coding Boot Camp
+# Pre-Work Study Guide Webpage
 
 ## Description
 
